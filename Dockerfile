@@ -1,0 +1,1 @@
+FROM fwing/tgmemobot:latest
